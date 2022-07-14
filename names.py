@@ -1,5 +1,7 @@
+"""a test program"""
 from distutils.command.build_scripts import first_line_re
 import name_function as nf
+
 
 print("Enter 'q' at any time to quit.")
 
